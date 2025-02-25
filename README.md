@@ -16,7 +16,7 @@ Prerequisites
 A modern web browser
 Internet connection
 Installation
-Clone the repository
+Clone the repository                                                 
 sh
 Copy code                         
 git clone https://github.com/Akshatbhardwaj15/Historia-Project.git
