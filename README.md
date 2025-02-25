@@ -18,7 +18,7 @@ Internet connection
 Installation
 Clone the repository
 sh
-Copy code
+Copy code                         
 git clone https://github.com/Akshatbhardwaj15/Historia-Project.git
 Open the index.html file in your preferred web browser.
 Usage
