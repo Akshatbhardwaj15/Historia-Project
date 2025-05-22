@@ -9,7 +9,7 @@ Date-based Search: Users can input a specific date to retrieve historical events
 Responsive Design: Optimized for various devices, ensuring a seamless experience on both desktop and mobile.                                 
 Demo                                                                 
                   
-## Getting Started                                                                                                          
+## Getting Started                                                                                                                           
 To get a local copy up and running follow these simple steps.                                                         
             
 Prerequisites                                                          
