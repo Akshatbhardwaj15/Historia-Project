@@ -13,7 +13,7 @@ Demo
 To get a local copy up and running follow these simple steps.                                                         
             
 Prerequisites                                                                             
-A modern web browser
+A modern web browser           
 Internet connection
 Installation
 Clone the repository                                                 
