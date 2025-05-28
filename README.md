@@ -1,6 +1,6 @@
 ## Historia          
                         
-Historia is a web-based project that provides users with information about historical events based on a specified date. Built with HTML, CSS, and JavaScript, this application fetches data from the Wikipedia API to deliver accurate and detailed historical events to the user.
+Historia is a web-based project that provides users with information about historical events based on a specified date. Built with HTML, CSS, and JavaScript, this application fetches data from the Wikipedia API to deliver accurate and detailed historical events to the user.      
                                                           
 ## Features                                                                                                       
 User-friendly Interface: Simple and intuitive design for ease of use.                                                                                               
