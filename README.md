@@ -12,7 +12,7 @@ Demo
 ## Getting Started                                                                                                                           
 To get a local copy up and running follow these simple steps.                                                         
             
-Prerequisites                                                                             
+Prerequisites                                                                                
 A modern web browser           
 Internet connection
 Installation
